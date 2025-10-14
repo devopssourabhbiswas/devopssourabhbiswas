@@ -1,13 +1,41 @@
-<h1 align="center">Hi 👋, I'm Sourabh Biswas</h1>
-<h3 align="center">Certified DevOps Engineer with a solid foundation in IT administration and a deep understanding of CI/CD pipelines, infrastructure automation, and cloud services. Completed the "DevOps Zero to Advance" course from GeeksforGeeks, gaining hands-on experience with essential DevOps tools and cloud platforms, including AWS and Azure. Ready to leverage my IT experience and new DevOps skillset to drive operational efficiency and innovation in a DevOps engineering role.</h3>
-
-- 🌱 Transitioning from **IT admin** to **Devops**
+<h1 align="center">Hi 👋, I'm Sourabh Biswas | DevOps & Cloud Engineer</h1>
+<h3 align="center">A GeeksforGeeks certified DevOps and Cloud Engineer with over 4+ years of hands-on experience in designing, automating, and optimizing robust infrastructure on AWS and Azure. My expertise lies in Cloud Platforms (AWS, Azure), Kubernetes (EKS/AKS), CI/CD pipelines, and Infrastructure as Code—all aimed at creating reliable, automated, and production-grade environments.</h3>
 
 - 📫 How to reach me **sourabhbiswas8505@gmail.com**
 
 - 📄 Devops Certification [https://media.geeksforgeeks.org/courses/certificates/e5537b49ae158fc77c210222f73dbd02.pdf](https://media.geeksforgeeks.org/courses/certificates/e5537b49ae158fc77c210222f73dbd02.pdf)
 
-- ⚡ Fun fact **Quick Learner**
+<h3 align="center">- ⚡ What I Do Best:</h3>
+
+-🔹Architect and manage containerized applications using Docker, Kubernetes, Helm, and Istio
+-🔹Drive CI/CD pipelines with Jenkins, GitLab, and GitHub Actions for seamless delivery
+-🔹Implement GitOps workflows with ArgoCD for declarative, automated deployments
+-🔹Define Infrastructure as Code using Terraform, Ansible, and CloudFormation
+-🔹Empower Monitoring & Observability setups with Prometheus, Grafana, EFK, Kiali & Datadog
+-🔹Contribute to open-source initiatives, technical blogs, and DevOps learning resources
+
+🔑 Key Skills & Tools
+-🔹 Cloud Platforms: AWS, Azure, Google Cloud
+-🔹 Containerization & Orchestration: Docker, Kubernetes (EKS, AKS), Helm
+-🔹 CI/CD & GitOps: Jenkins, GitLab CI, GitHub Actions, ArgoCD
+-🔹 Infrastructure as Code (IaC): Terraform, Ansible, AWS CloudFormation
+-🔹 Monitoring & Observability: Prometheus, Grafana, EFK Stack, Datadog, Istio, Kiali
+-🔹 Version Control: Git, GitHub, GitLab
+
+📂 Open-Source & Projects
+I maintain GitHub repos to help engineers learn real-world DevOps practices through projects, notes, and reusable templates. Highlights:
+
+## 🚀 Realtime MERN DevOps Project (EKS + Terraform Infra): A complete implementation of CI/CD, Kubernetes deployment, and monitoring.
+https://github.com/devopssourabhbiswas/solar-system-devops-project
+
+## 📘 DevOps Cheatsheet: A comprehensive quick-reference guide for various DevOps tools.
+https://github.com/SourabhBiswasin/Devops-Cheatsheet-by-Sourbh-Biswas
+
+## 📚 Advanced DevOps Notes: In-depth technical notes and guides.
+https://devopswithsourabh.gitbook.io/home/
+
+##🔥 Beyond Code
+I thrive on continuous learning and love sharing knowledge with the community—whether through blogs, repos, or collaborative discussions on cloud, automation, and DevOps transformations.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
