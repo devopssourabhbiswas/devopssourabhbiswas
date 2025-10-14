@@ -7,20 +7,20 @@
 
 <h3 align="center">- ⚡ What I Do Best:</h3>
 
-- 🔹Architect and manage containerized applications using Docker, Kubernetes, Helm, and Istio
-- 🔹Drive CI/CD pipelines with Jenkins, GitLab, and GitHub Actions for seamless delivery
-- 🔹Implement GitOps workflows with ArgoCD for declarative, automated deployments
-- 🔹Define Infrastructure as Code using Terraform, Ansible, and CloudFormation
-- 🔹Empower Monitoring & Observability setups with Prometheus, Grafana, EFK, Kiali & Datadog
-- 🔹Contribute to open-source initiatives, technical blogs, and DevOps learning resources
+-  Architect and manage containerized applications using Docker, Kubernetes, Helm, and Istio
+-  Drive CI/CD pipelines with Jenkins, GitLab, and GitHub Actions for seamless delivery
+-  Implement GitOps workflows with ArgoCD for declarative, automated deployments
+-  Define Infrastructure as Code using Terraform, Ansible, and CloudFormation
+-  Empower Monitoring & Observability setups with Prometheus, Grafana, EFK, Kiali & Datadog
+-  Contribute to open-source initiatives, technical blogs, and DevOps learning resources
 
 🔑 Key Skills & Tools
-- 🔹 Cloud Platforms: AWS, Azure, Google Cloud
-- 🔹 Containerization & Orchestration: Docker, Kubernetes (EKS, AKS), Helm
-- 🔹 CI/CD & GitOps: Jenkins, GitLab CI, GitHub Actions, ArgoCD
-- 🔹 Infrastructure as Code (IaC): Terraform, Ansible, AWS CloudFormation
-- 🔹 Monitoring & Observability: Prometheus, Grafana, EFK Stack, Datadog, Istio, Kiali
-- 🔹 Version Control: Git, GitHub, GitLab
+-  Cloud Platforms: AWS, Azure, Google Cloud
+-  Containerization & Orchestration: Docker, Kubernetes (EKS, AKS), Helm
+-  CI/CD & GitOps: Jenkins, GitLab CI, GitHub Actions, ArgoCD
+-  Infrastructure as Code (IaC): Terraform, Ansible, AWS CloudFormation
+-  Monitoring & Observability: Prometheus, Grafana, EFK Stack, Datadog, Istio, Kiali
+-  Version Control: Git, GitHub, GitLab
 
 📂 Open-Source & Projects
 I maintain GitHub repos to help engineers learn real-world DevOps practices through projects, notes, and reusable templates. Highlights:
